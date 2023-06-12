@@ -1,0 +1,8 @@
+node_modules
+exampleSite/public
+exampleSite/resources
+.publish
+.nova
+.DS_Store
+.hugo_build.lock
+*.content
