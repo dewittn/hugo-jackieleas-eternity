@@ -1,7 +1,6 @@
 ---
 weight: 2
-images:
-- https://source.unsplash.com/random?bunny&11381
+#images:- https://source.unsplash.com/random?bunny&11381
 title: bunny 2
 date: 2022-07-23
 tags:

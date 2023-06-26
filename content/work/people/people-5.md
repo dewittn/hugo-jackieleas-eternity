@@ -1,8 +1,7 @@
 ---
 weight: 5
-images:
-- https://source.unsplash.com/random?people&15372
-- https://source.unsplash.com/random?people&111
+#images: - https://source.unsplash.com/random?people&15372
+
 title: people 5
 multipleColumn: true
 date: 2022-07-23
