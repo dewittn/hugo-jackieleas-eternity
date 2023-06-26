@@ -1,16 +1,16 @@
 baseURL: https://eternity.bora.sh # todo: change site url.
-title: Eternity # todo: change site name.
+title: Jackie Lea Shelley # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
 params:
-  image: /images/banner.png
-  logo: logo.png # todo: add your custom logo to static/
+  image: /jls-dotcom.jpg
+  logo: jls.jpg #logo.png :: todo: add your custom logo to static/
   subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
   author: Lovely Author # todo: set your full name.
-  dontShowSource: false # please, do not do this :)
+  dontShowSource: true # please, do not do this :)
   portfolio:
     columns:
       desktop:
