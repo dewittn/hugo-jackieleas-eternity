@@ -62,7 +62,7 @@ menu:
     - name: work
       url: /work/
       weight: 1
-    - name: people
+    - name: nose
       url: /tags/people/
       weight: 2
     - name: nature
