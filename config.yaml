@@ -37,7 +37,7 @@ params:
   homepage: "/paintings" # homepage link, mostly same with menu.main[0]
   specialPages:
     - paintings
-    - archive
+    - about
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: false # disables the background image on the homepage
   plausible: '' # todo: set your plausible id.
@@ -55,7 +55,7 @@ taxonomies:
   tag: tags
 
 permalinks:
-  work: ":filename/"
+ works: ":filename/"
 
 menu:
   main:
@@ -63,10 +63,10 @@ menu:
       url: /paintings/
       weight: 1
     - name: Selfies
-      url: /tags/people/
+      url: tags/selfies/
       weight: 2
     - name: Portraits
-      url: /tags/nature/
+      url: /tags/portraits/
       weight: 3
     #- name: archive
     #  url: /tags/archive/
