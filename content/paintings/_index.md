@@ -1,5 +1,5 @@
 ---
-title:  Paintings
+title: Paintings
 url: paintings
 
 ---

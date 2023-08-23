@@ -5,7 +5,7 @@ theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
 params:
-  image: /jls-dotcom.jpg
+  image: /jls-dotcom.jpg/
   logo: jls.jpg #logo.png :: todo: add your custom logo to static/
   subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
@@ -55,7 +55,7 @@ taxonomies:
   tag: tags
 
 permalinks:
- works: ":filename/"
+ paintings: ":filename/"
 
 menu:
   main:
@@ -63,7 +63,7 @@ menu:
       url: /paintings/
       weight: 1
     - name: Selfies
-      url: tags/selfies/
+      url: /tags/selfies/
       weight: 2
     - name: Portraits
       url: /tags/portraits/
