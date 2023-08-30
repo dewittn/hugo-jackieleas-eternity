@@ -1,7 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+images: 
+    - /images/portraits/
 tags:
     - portrait  # all posts
     - selfies
