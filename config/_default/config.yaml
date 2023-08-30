@@ -59,18 +59,12 @@ permalinks:
 
 menu:
   main:
-    - name: Paintings
-      url: /tags/archive/
+    - name: Portratis
+      url: /tags/portrait/
       weight: 1
-    - name: Selfies
+    - name: 1000 unicicles
       url: /tags/selfies/
       weight: 2
-    - name: Portraits
-      url: /tags/portraits/
-      weight: 3
-    #- name: archive
-    #  url: /tags/archive/
-    #  weight: 4
     - name: about
       url: /about/
-      weight: 5
+      weight: 3
