@@ -7,3 +7,4 @@ exampleSite/resources
 .hugo_build.lock
 *.content
 /resources
+/public
