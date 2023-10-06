@@ -60,11 +60,13 @@ permalinks:
 menu:
   main:
     - name: Portratis
-      url: /tags/portrait/
+      url: /tags/archive/
       weight: 1
-    - name: 1000 unicicles
-      url: /tags/selfies/
-      weight: 2
+    - name: 100 unicicles
+      url: https://100unicycles.com/
     - name: about
       url: /about/
+      weight: 2
+    - name: contac us
+      url: /contac/
       weight: 3
