@@ -1,8 +1,9 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-images: 
-    - /images/portraits/
+images: /images/{{ replace .Name "-" " " | title }}.jpg
 tags:
+    - paints # all posts
     - portrait
 ---
+
+

@@ -1,13 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-
-images: "/images/portraits/{{ .Name | replace "-" " " | title }}.jpg"
-images: 
-    - /images/portraits/
+images: /images/{{ replace .Name "-" " " | title }}.jpg
 tags:
-    - portrait  # all posts
-    - selfies
-images: "{{ replace .Name "-" " " | title }}"
+    - paints # all posts
+    - selfie
 ---
-
