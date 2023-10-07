@@ -34,12 +34,12 @@ params:
       url: "https://instagram.bora.sh/eternity"
     - icon: "fab fa-linkedin-in fa-lg"
       url: "https://linkedin.bora.sh/in/eternity"
-  homepage: "/tags/archive/" # homepage link, mostly same with menu.main[0]
+  homepage: "/paints/" # homepage link, mostly same with menu.main[0]
   specialPages:
     - paints
     - archive
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
-  disableWelcomePageBackground: false # disables the background image on the homepage
+  disableWelcomePageBackground: true # disables the background image on the homepage
   plausible: "" # todo: set your plausible id.
   disableRadius: false
   moveIt: false # Moves Title and Meta info down, only visible when scroll.
