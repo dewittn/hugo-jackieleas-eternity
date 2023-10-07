@@ -60,7 +60,7 @@ permalinks:
 menu:
   main:
     - name: Portratis
-      url: /tags/archive/
+      url: /tags/paints/
       weight: 1
     - name: 100 unicicles
       url: https://100unicycles.com/
