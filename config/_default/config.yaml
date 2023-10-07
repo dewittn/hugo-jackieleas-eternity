@@ -36,7 +36,7 @@ params:
       url: "https://linkedin.bora.sh/in/eternity"
   homepage: "/tags/archive/" # homepage link, mostly same with menu.main[0]
   specialPages:
-    - work
+    - paints
     - archive
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: false # disables the background image on the homepage
