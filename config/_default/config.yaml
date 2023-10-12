@@ -36,7 +36,7 @@ params:
     - paints
     - archive
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
-  disableWelcomePageBackground: false # disables the background image on the homepage
+  disableWelcomePageBackground: true # disables the background image on the homepage
   plausible: "" # todo: set your plausible id.
   disableRadius: false
   moveIt: false # Moves Title and Meta info down, only visible when scroll.
@@ -65,5 +65,5 @@ menu:
       url: /about/
       weight: 2
     - name: contac us
-      url: /contac/
+      url: /contact/
       weight: 3
